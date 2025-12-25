@@ -40,4 +40,5 @@ Tackling hierarchical data structures and pathfinding using Recursive CTEs.
 The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
 
 Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
+
 Link to [certification](https://www.linkedin.com/in/harinisaravan181/details/certifications/1766622852571/single-media-viewer/?profileId=ACoAAD6TuS8ByWkKY4LvwHLKzFJEKQDLSo8B8g4): 
