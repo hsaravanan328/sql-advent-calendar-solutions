@@ -3,36 +3,24 @@
 This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge. 🎯 
 This journey was all about consistency and leveling up my query optimization and data manipulation skills. Excited to keep building on this momentum!
 
+## 𝟮𝟰 𝗗𝗮𝘆𝘀 𝗼𝗳 𝗦𝗤𝗟: 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱! 🎄🌟 
 
-# Key Technical Concepts Covered:
-### Advanced Data Retrieval: 
-Mastering SELECT statements with complex WHERE filtering and DISTINCT logic.
+I’m excited to share that I have officially completed the SQL Advent Calendar 2025 hosted by Interview Master!
 
-### Multi-Table Joins: 
-Implementing INNER, LEFT, and FULL OUTER JOINs to consolidate data across multiple festive-themed datasets.
-
-### Window Functions: 
-Using RANK(), DENSE_RANK(), and ROW_NUMBER() to perform calculations across specific partitions of data.
-
-### Aggregations & Grouping: 
-Summarizing large datasets using SUM, AVG, and COUNT combined with GROUP BY and HAVING clauses.
-
-### Common Table Expressions (CTEs): 
-Writing clean, readable queries and managing multi-step data transformations using WITH clauses.
-
-### Date & Time Manipulation: 
-Handling time-series data, calculating intervals, and filtering by specific holiday periods.
-
-### Conditional Logic: 
-Using CASE statements to categorize data and handle complex business rules (like "Naughty vs. Nice" list logic).
-
-### Data Cleaning & Parsing: 
-Working with string manipulation, handling NULL values, and even basic JSON/XML parsing (depending on the specific daily tasks).
-
-### Recursive Queries: 
-Tackling hierarchical data structures and pathfinding using Recursive CTEs.
+For 24 consecutive days this December, I dived into complex data challenges that pushed my SQL skills to the next level. Beyond just writing queries, this journey was about mastering the logic required to solve real-world data problems under a daily deadline.
 
 
+## 𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀 & 𝗦𝗸𝗶𝗹𝗹𝘀 𝗠𝗮𝘀𝘁𝗲𝗿𝗲𝗱:
+
+𝘾𝙤𝙣𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙮: Completed 24 days of challenges without miss, proving my commitment to continuous learning.
+
+𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙌𝙪𝙚𝙧𝙮𝙞𝙣𝙜: Deepened my expertise in Joins, CTEs, Window Functions, and complex aggregations.
+
+𝙋𝙧𝙤𝙗𝙡𝙚𝙢-𝙎𝙤𝙡𝙫𝙞𝙣𝙜: Each day presented a unique business logic puzzle, improving my ability to translate data requirements into efficient code.
+
+𝙀𝙛𝙛𝙞𝙘𝙞𝙚𝙣𝙘𝙮: Focused on writing clean, optimized SQL code that is easy to read and performant.
+
+I’m eager to bring this technical rigor and "habit of consistency" to a data-driven team. If you're looking for someone who loves turning data into insights, let's connect!
 
 
 ## About the Challenge
